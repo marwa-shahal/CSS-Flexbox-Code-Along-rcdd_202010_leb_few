@@ -17,7 +17,7 @@ main {
   height: 100%;
   flex-wrap: wrap;
   flex-flow: row wrap;
-  
+  justify-content: center;
   align-items: center;
 }
 
