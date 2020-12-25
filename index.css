@@ -25,6 +25,7 @@ footer {
   background-color: #DAEEEF;
   height: 100%;
   width: 100%;
+  flex-shrink: 3;
 }
 
 .flex-container{
@@ -44,3 +45,5 @@ footer {
   flex-basis: 100px;
   flex-grow: 1;
 }
+
+
